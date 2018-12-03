@@ -6,7 +6,7 @@ Everything works fine with this free webhost.
 
 Public Demo Link: http://githubad.epizy.com/cms/
 
-Admin Demo Link: http://githubad.epizy.com/cms/cms/login.php
+Admin Demo Link: http://githubad.epizy.com/cms/login.php
 
 User:a
 Pass:a
